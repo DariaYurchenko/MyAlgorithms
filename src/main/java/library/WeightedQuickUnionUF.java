@@ -1,4 +1,4 @@
-package dynamic_connectivity.percolation.library;
+package library;
 
 /**
  *  The {@code WeightedQuickUnionUF} class represents a <em>union–find data type</em>

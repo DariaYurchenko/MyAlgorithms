@@ -1,4 +1,4 @@
-package dynamic_connectivity.percolation.library;
+package library;
 
 import java.util.Random;
 

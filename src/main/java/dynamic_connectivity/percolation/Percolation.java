@@ -6,7 +6,7 @@ package dynamic_connectivity.percolation;
  *  Description: Percolation task for Algorithms course, week 1
  **************************************************************************** */
 
-import dynamic_connectivity.percolation.library.WeightedQuickUnionUF;
+import library.WeightedQuickUnionUF;
 
 public class Percolation {
 

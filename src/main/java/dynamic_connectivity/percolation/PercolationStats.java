@@ -6,8 +6,8 @@ package dynamic_connectivity.percolation;
  *  Description: Percolation task for Algorithms course, week 1
  **************************************************************************** */
 
-import dynamic_connectivity.percolation.library.StdRandom;
-import dynamic_connectivity.percolation.library.StdStats;
+import library.StdRandom;
+import library.StdStats;
 
 public class PercolationStats {
 

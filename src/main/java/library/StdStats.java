@@ -1,4 +1,4 @@
-package dynamic_connectivity.percolation.library;
+package library;
 
 /**
  *  The {@code StdStats} class provides static methods for computing
