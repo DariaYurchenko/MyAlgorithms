@@ -60,7 +60,7 @@ public class BinaryHeap<Key extends Comparable<Key>> {
 
     public static void main(String[] args) {
         BinaryHeap<Integer> queue = new BinaryHeap<>(7);
-        queue.insert(76);
+        queue.insert(77);
         queue.insert(56);
         queue.insert(742);
         queue.insert(12);
