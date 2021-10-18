@@ -72,7 +72,6 @@ public class BinaryHeap<Key extends Comparable<Key>> {
         System.out.println(queue.deleteMax());
         System.out.println(Arrays.toString(queue.items));
         System.out.println(queue.size);
-        ArrayList
     }
 
 
